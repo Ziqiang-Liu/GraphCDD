@@ -35,7 +35,6 @@ Run code\main.py to RUN GraphCDD.
 * circRNAname.xlsx: list of circRNA names  
 * drugname.xlsx: list of drug names  
 * diseasename.xlsx: list of disease names  
-* human_hg19_circRNAs_putative_spliced_sequence.fa: circbase dataset
 * NoncoRNA.xls: data used in the casestudy
 
 #### Contacts
