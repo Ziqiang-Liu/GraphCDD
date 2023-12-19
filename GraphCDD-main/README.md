@@ -26,9 +26,12 @@ Run code\main.py to RUN GraphCDD.
 
 #### Data description
 * allpair.csv: all pairs of circRNAs and drug resistance  
-* circ4.csv: circRNA integrated similarity  
-* dis.csv: disease integrated similarity 
-* drug.csv: drug integrated similarity 
+* circ4.csv: circRNA integrated similarity
+* CSS.csv: circRNA sequence similarity
+* dis.csv: disease integrated similarity
+* DSS.csv: disease semantic similarity
+* drug.csv: drug integrated similarity
+* MTS.csv: molecular structure similarity
 * circ_dis.csv: circRNA-disease association matrix   
 * circ_drug.csv: circRNA-drug resistance association matrix  
 * drug_dis.csv: disease-drug resistance association matrix   
