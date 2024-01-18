@@ -1,7 +1,10 @@
 # GraphCDD
 This code is the implementation of GraphCDD
 <br>
+<br>
 GraphCDD: Predicting circRNA-drug resistance associations based on a multimodal graph representation learning framework
+<br>
+<br>
 <br>
 **Liu Ziqiang**, Dai Qiguo, Xianhai Yu, et al.Predicting circRNA-drug resistance associations based on a multimodal graph representation learning framework[J]. *IEEE Journal
 of Biomedical and Health Informatics*. DOI: 10.1109/jbhi.2023.3299423 
