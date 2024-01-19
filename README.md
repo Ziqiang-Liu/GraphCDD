@@ -6,7 +6,7 @@ GraphCDD: Predicting circRNA-drug resistance associations based on a multimodal 
 <br>
 <br>
 <br>
-[**Liu Ziqiang**](https://orcid.org/0000-0002-0002-4569), [Dai Qiguo(导师)](https://www.dlnu.edu.cn/comd/docs/20230821120522242524.pdf), et al.Predicting circRNA-drug resistance associations based on a multimodal graph representation learning framework[J]. *IEEE Journal
+[**Liu Ziqiang**](https://orcid.org/0000-0002-0002-4569), [Dai Qiguo(导师)](https://www.dlnu.edu.cn/comd/szdw66/rgzn/116969.html), et al.Predicting circRNA-drug resistance associations based on a multimodal graph representation learning framework[J]. *IEEE Journal
 of Biomedical and Health Informatics*. 
 <br>
 DOI: 10.1109/jbhi.2023.3299423 
